@@ -1,0 +1,2 @@
+# stockMangement
+Stock Inventory Management
