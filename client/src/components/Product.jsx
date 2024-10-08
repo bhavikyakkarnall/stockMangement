@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import DataService from "../services/dataService";
 
-const dataService = new DataService("http://153.92.214.128:8080/");
+const dataService = new DataService("http://153.92.214.128:4000/");
 
 export default function Product() {
     
